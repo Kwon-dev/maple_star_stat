@@ -1,11 +1,11 @@
 {
-    "name": "maple_star_stat",
-    "short_name": "maple_star_stat",
+    "name": "스타포스 통계",
+    "short_name": "스타포스 통계",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
-    "description": "A new Flutter project.",
+    "description": "메이플스토리의 스타포스 통계를 제공합니다.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
